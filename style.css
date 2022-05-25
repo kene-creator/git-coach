@@ -1,3 +1,8 @@
 body {
   background-color: aliceblue;
 }
+
+.heading-one {
+  font-size: 40px;
+  color: #121212;
+}
