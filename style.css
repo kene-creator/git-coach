@@ -10,3 +10,7 @@ body {
 .paragraph {
   color: aqua;
 }
+
+.link {
+  padding: 10px 5px;
+}
